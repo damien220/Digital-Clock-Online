@@ -10,6 +10,10 @@
   * **Responsive:** Designed to look good on various screen sizes (though primarily optimized for larger displays for the large font).
   * **Pure Frontend:** Built solely with HTML, CSS, and JavaScript – no backend dependencies.
 
+🚀 Live Demo
+
+You can see the clock live here:
+https://damien220.github.io/Digital-Clock-Online/
 
 ## 🛠️ Technologies Used
 
